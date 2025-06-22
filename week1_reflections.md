@@ -1,0 +1,1 @@
+This first week of the course, we learned about key words in coding, which are reserved words that have special meaning in a programming language. We also started exploring the basics of algorithms and how they help us solve problems step by step.
